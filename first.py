@@ -1,1 +1,2 @@
-first py.py
+a =6 
+b =6
